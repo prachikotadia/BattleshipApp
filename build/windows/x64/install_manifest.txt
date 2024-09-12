@@ -1,0 +1,9 @@
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/19ec0/Desktop/prachiago/SEM_2/MAD/mp4-PFA23SCM27K/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
